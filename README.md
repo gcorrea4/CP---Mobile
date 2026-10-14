@@ -19,7 +19,8 @@ capacidade máxima de pessoas simultâneas no espaço de treino.
 
 ## Integrantes
 
-- Gabriel
+- Gabriel Correa Souza — RM567903
+- Eric Maciel — RM567398
 
 ## Funcionalidades
 
