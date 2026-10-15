@@ -8,7 +8,6 @@ plugins {
 android {
     namespace = "com.example.projeto_cont_fiap"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17

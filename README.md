@@ -8,7 +8,7 @@ entrada/saída e aplicando as regras de capacidade máxima.
 
 ## Vídeo de demonstração
 
-[Assista aqui](COLOQUE_O_LINK_DO_VIDEO_AQUI) *(vídeo de até 5 minutos
+[Assista aqui](https://youtu.be/lwDqGMWIxrE) *(vídeo de até 5 minutos
 mostrando o cadastro, a lista, o controle de entrada/saída, o Slidable e o
 AlertDialog funcionando)*
 
